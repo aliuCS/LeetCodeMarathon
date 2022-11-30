@@ -1,6 +1,5 @@
 # LeetCodeProgress
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
-
+Collection and tracking of my LeetCode progress to ace the coding challenges!
 
 
 
