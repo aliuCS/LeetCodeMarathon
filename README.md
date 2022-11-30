@@ -1,5 +1,5 @@
-# LeetCodeProgress
-Collection and tracking of my LeetCode progress to ace the coding challenges!
+# LeetCode Progress 
+Collection of and tracking of my LeetCode to monitor my progress toward acing coding challenges!
 
 
 
