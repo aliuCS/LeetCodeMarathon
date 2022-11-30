@@ -4,4 +4,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/aliuCS)
+![](https://leetcard.jacoblin.cool/aliuCS?theme=light,unicorn)
