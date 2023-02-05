@@ -1,5 +1,5 @@
 # LeetCode Grind Challenges
-Collection of and tracking of my LeetCode to monitor my progress toward acing coding challenges!
+Progress and tracking of my LeetCode coding challenges!
 
 
 
